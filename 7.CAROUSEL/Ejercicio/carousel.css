@@ -1,0 +1,10 @@
+#slider img{
+    height: 80vh;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+
+
+.overlay .row{
+    height: 80vh;
+}

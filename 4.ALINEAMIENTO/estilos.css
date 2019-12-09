@@ -1,0 +1,28 @@
+
+[class*="col"] {
+    border: 1px solid white;
+    padding: 20px;
+    background-color: rgb(107, 107, 202);
+}
+
+.contenedor{
+  background-color: aqua;
+  height: 500px;
+}
+
+.contenedor1{
+  background-color: black;
+  height: 200px;
+}
+
+.contenedor2{
+  background-color: brown;
+  height: 200px;
+}
+
+.contenedor3{
+  background-color: green;
+  height: 200px;
+}
+
+

@@ -1,0 +1,62 @@
+
+body,html{
+    height:100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background: linear-gradient(rgba(182, 67, 192, 0.7), rgba(97, 136, 187, 0.7)),url("img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff; 
+}
+
+
+
+.logo {
+    height: 60px;
+    margin-top: 20px;
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: rgb(252, 244, 244) !important;
+}
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+/*Modal*/
+
+.modal-header{
+    background-color: rgb(255, 187, 0);
+}
+
+.btn-propio{
+    background-color: rgb(255, 187, 0);
+    color: white !important;
+}
+
+.text-color{
+    color: #000000;
+}
+
+@media (max-width: 900px) {
+    body,html{
+        height:auto;
+    }
+    .title{
+        font-size: 25px;
+    }
+ }
